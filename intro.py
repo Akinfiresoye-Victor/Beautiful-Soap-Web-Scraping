@@ -1,3 +1,6 @@
+'''Basic web scraper code with BeautifulSoup'''
+
+
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
