@@ -20,4 +20,3 @@ print(bs.h1)
 print(bs.body.h1)
 print(bs.html.body.h1)
 print(bs.html.h1)
-
